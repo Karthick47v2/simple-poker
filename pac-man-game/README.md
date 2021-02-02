@@ -15,8 +15,6 @@ Screen-shots:
 
 ![Gameplay-screen](./img/game-scene.png)
 
-![Credits-screen](./img/credits-scene.png)
-
 **Contributors**
 
 * [Karthick47v2](https://github.com/Karthick47v2)
