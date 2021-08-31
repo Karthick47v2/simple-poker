@@ -62,7 +62,7 @@ class Assistant: public MagicianTeam{
         Assistant();
         void orderCards() const;
 };
-	
+
  void getFirstCard(CardInfo cardInfo[], std::vector<int> pairedCardsIndex, int &secretCode);
  int findIndex(std::string str);
  void swap(int *a, int *b);
