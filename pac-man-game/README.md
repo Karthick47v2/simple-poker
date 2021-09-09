@@ -1,6 +1,6 @@
 # simple-pac-man
 
-Simple command-line based game project developed for 2nd Semi module 'CO1302 Programming for Engineers' using c++.
+Simple command-line based game project (Non - OOP styled) developed for 2nd Semi module 'CO1302 Programming for Engineers' using c++.
 
 * Use **arrow keys** or **WASD** to move player
 * Collect all points to finish level
