@@ -1,0 +1,6 @@
+Round 1 Player 1 Three of Hearts Four of Hearts Six of Diamonds Queen of Diamonds King of Clubs 0
+Round 1 Player 2 Five of Clubs Six of Clubs Ten of Spades Jack of Spades King of Diamonds -1
+Round 1 Player 3 Seven of Hearts Eight of Hearts Nine of Spades Jack of Diamonds Ace of Hearts 10
+Round 1 Player 1 Four of Clubs Five of Diamonds King of Hearts King of Spades Ace of Spades 10
+Round 1 Player 2 Two of Hearts Three of Spades Five of Clubs Seven of Spades Ace of Clubs 0
+Round 1 Player 3 Two of Spades Three of Diamonds Six of Diamonds Nine of Diamonds Ace of Diamonds 0
