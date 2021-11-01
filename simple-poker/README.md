@@ -8,15 +8,15 @@ Game take place with all 52 cards in the card pack. Every card has a Value (2 to
 run, **run.bat** to compile and link cpp files
 
 Each hand get a score based on the combination it can form as listed below with the ascending order of the scores.
-__1. High card
-2. One pair
-3. Two pairs
-4. Three of a kind
-5. Straight
-6. Flush
-7. Full house
-8. Four of a kind
-9. Straight Flush__
+__1-High card
+2-One pair
+3-Two pairs
+4-Three of a kind
+5-Straight
+6-Flush
+7-Full house
+8-Four of a kind
+9-Straight Flush__
 
 If there is a tie situation, the one with the highest score card wins the game.
 
