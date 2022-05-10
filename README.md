@@ -1,6 +1,6 @@
 # simple-poker
 
-This is a simple implementation of command-line based Texas Hold 'em Poker game made for 4th Semi module 'CO2210 Programming Quest' using c++.
+This is a simple implementation of command-line based Texas Hold 'em Poker game using c++.
 
 Game take place with all 52 cards in the card pack. Every card has a Value (2 to 10, Jack, Queen, King, and Aces) and Shape (Spade, Diamond, Heart, and Club). Dealer shuffles the cards, removes the first two cards in the pack, and distributes five cards for each player including himself. 
 
@@ -22,3 +22,6 @@ The winner receives 10 points. The losers get -1 point. The dealer does not rece
 All the activities will be logged to file.
 
 run, **run.bat** to compile and link cpp files
+
+Technologies:
+- C++
